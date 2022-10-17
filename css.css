@@ -1,0 +1,43 @@
+body{
+   padding: 2px;
+  background-color:rgb(120, 156, 159);
+  font-family: sans-serif;
+}
+.div_1{
+  margin-left: 300px;
+  text-align: center;
+  padding: 5px;
+  height: 150px;
+  background-color: rgb(58, 43, 226);
+  width: 50%;
+  border-radius: 5%;
+}
+
+h1{
+  margin-left: 480px;
+}
+#dataNascimento{
+  background-color: rgb(185, 204, 195);
+  border-radius: 5px;
+  cursor: pointer;
+}
+#clique-aqui{
+  height: 30%;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: rgb(181, 160, 58);
+   }
+ .signo_2{
+  height: 150px;
+  border-radius: 5%;
+  padding-top: 10%;
+  background-color: rgb(54, 94, 94);
+  text-align: center;
+ }
+
+
+
+
+
+
+
